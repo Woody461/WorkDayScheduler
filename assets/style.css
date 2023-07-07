@@ -1,0 +1,48 @@
+.current-day {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.time-block {
+  display: flex;
+  flex-direction: column;
+  background-color: #f8f8f8;
+  border-radius: 4px;
+  padding: 8px;
+  height: 100%;
+}
+
+.block-time {
+  color: #666;
+  font-weight: bold;
+}
+
+.block-event {
+  flex-grow: 1;
+  width: 100%;
+  resize: none;
+}
+
+.block-save {
+  background-color: #4a90e2;
+  color: #fff;
+  padding: 4px 8px;
+  margin-top: 8px;
+  cursor: pointer;
+}
+.event-info {
+  margin-top: 4px;
+  font-size: 14px;
+  color: #666;
+}
+.past {
+  background-color: red;
+}
+
+.present {
+  background-color: yellow;
+}
+
+.future {
+  background-color: green;
+}
