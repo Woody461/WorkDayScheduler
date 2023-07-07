@@ -1,5 +1,7 @@
 # WorkDayScheduler
 
+[Launch WorkDayScheduler ](https://woody461.github.io/WorkDayScheduler/)
+
 Acceptance Criteria
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
@@ -14,3 +16,15 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+<p>
+  <img src="assets/Screenshot.png" width="350" title="hover text">
+  </p>
+
+  <p>
+  <img src="assets/Screenshot2.png" width="350" title="hover text">
+  </p>
+
+  <p>
+  <img src="assets/Screenshot3.png" width="350" title="hover text">
+  </p>
